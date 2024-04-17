@@ -1,0 +1,23 @@
+﻿@page
+@model MVC_StaticFilesExample.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static files example</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <h1 class="header">Welcome to Static Files Example</h1>
+
+    <p class="property">Server start time: @Model.ServerStartTime </p>
+    <p class="property">Now UTC time: @DateTime.UtcNow </p>
+
+    <!-- попробуем вывести изображение -->
+    <img class="picture" src="./images/some-picture.jpg">
+
+    <button onclick="alert('Hello world!');">Say hello</button>
+</body>
+</html>

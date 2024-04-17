@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|c:\\users\\fishman_1\\downloads\\mvc_staticfilesexample\\mvc_staticfilesexample\\mvc_staticfilesexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|solutionrelative:mvc_staticfilesexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|c:\\users\\fishman_1\\downloads\\mvc_staticfilesexample\\mvc_staticfilesexample\\mvc_staticfilesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|solutionrelative:mvc_staticfilesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|c:\\users\\fishman_1\\downloads\\mvc_staticfilesexample\\mvc_staticfilesexample\\mvc_staticfilesexample\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|solutionrelative:mvc_staticfilesexample\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|c:\\users\\fishman_1\\downloads\\mvc_staticfilesexample\\mvc_staticfilesexample\\mvc_staticfilesexample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE38F2B8-1C66-433A-9F91-BF5D83682056}|MVC_StaticFilesExample\\MVC_StaticFilesExample.csproj|solutionrelative:mvc_staticfilesexample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC_StaticFilesExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC_StaticFilesExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T16:37:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_StaticFilesExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Program.cs",
+              "RelativeToolTip": "MVC_StaticFilesExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:34:13.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MVC_StaticFilesExample\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MVC_StaticFilesExample\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:33:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_StaticFilesExample\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MVC_StaticFilesExample\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:32:16.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\images\\some-picture.jpg",
+      "PackagePath": "staticwebassets\\images\\some-picture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC_StaticFilesExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC_StaticFilesExample.props",
+      "PackagePath": "build\\MVC_StaticFilesExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_StaticFilesExample.props",
+      "PackagePath": "buildMultiTargeting\\MVC_StaticFilesExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC_StaticFilesExample.props",
+      "PackagePath": "buildTransitive\\MVC_StaticFilesExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

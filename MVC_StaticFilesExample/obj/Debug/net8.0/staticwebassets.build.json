@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TUgeChQ09KNqntR5+hgYTo8QeyEwtBUXIevhMeOLkYs=",
+  "Source": "MVC_StaticFilesExample",
+  "BasePath": "_content/MVC_StaticFilesExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_StaticFilesExample\\wwwroot",
+      "Source": "MVC_StaticFilesExample",
+      "ContentRoot": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/MVC_StaticFilesExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\css\\style.css",
+      "SourceId": "MVC_StaticFilesExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/MVC_StaticFilesExample",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\images\\some-picture.jpg",
+      "SourceId": "MVC_StaticFilesExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fishman_1\\Downloads\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\MVC_StaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/MVC_StaticFilesExample",
+      "RelativePath": "images/some-picture.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\some-picture.jpg"
+    }
+  ]
+}
